@@ -22,8 +22,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elizabeth's prototypes",
-  description: "The home for all my prototypes",
+  title: "Next.js starter template",
+  description: "Blank template for a new Next.js project",
   icons: {
     icon: [
       {
